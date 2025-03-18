@@ -3,6 +3,8 @@ Este repositório contém a documentação e os scripts do laboratório que dese
 📌 Descrição do Laboratório
 Neste experimento, configurei uma infraestrutura de rede completa na AWS, incluindo VPC, subnets, NAT Gateway, Bastion Host e Security Groups, garantindo segurança e conectividade eficiente.
 
+Baixar todas as imagens: Aws Infraestrutura de Rede Segura.rar
+
 🚀 Objetivos
 ✔️ Criar uma VPC com subnets públicas e privadas
 ✔️ Configurar Routing Table e Internet Gateway para permitir comunicação externa
