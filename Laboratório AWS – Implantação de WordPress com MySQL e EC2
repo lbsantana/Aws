@@ -29,6 +29,8 @@ Instalar Apache, PHP e MySQL Client na EC2:
 
 sudo apt update && sudo apt install apache2 php mysql-client -y
 
+Resultado: Site Wordpress AWS.mp4
+
 Código usado para inserir no metadado do EC2:
 
 #!/bin/bash
